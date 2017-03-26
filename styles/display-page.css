@@ -1,0 +1,48 @@
+.container {
+  width: 800px;
+  max-width: 100%;
+  margin: 110px auto 0;
+}
+
+.row {
+  font-size: 0;
+}
+
+.row1 {
+  height: 200px;
+}
+
+.row2 {
+  height: 300px;
+}
+
+.rec {
+  height: 100%;
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.row1-rec1 {
+  width: 50%;
+  background-color: green;
+}
+
+.row1-rec2 {
+  width: 50%;
+  background-color: blue;
+}
+
+.row2-rec1 {
+  width: 33.3333333333%;
+  background: grey;
+}
+
+.row2-rec2 {
+  width: 33.3333333333%;
+  background-color: black;
+}
+
+.row2-rec3 {
+  width: 33.3333333333%;
+  background-color: orange;
+}
